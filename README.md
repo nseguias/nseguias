@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nseguias
-- 👀 I’m interested in blockchain and AI
-- 🌱 I’m currently learning Rust and Solidity.
-- 💞️ I’m looking to collaborate on any blockchain | AI project
-- 📫 How to reach me on twitter @nahem
+Smart contract dev looking to collaborate on any blockchain project.
+I speak Spanish, English, Rust, Python, and R.
+You can reach me on Twitter @nahem or Telegram @nseguias
 
 <!---
 nseguias/nseguias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
