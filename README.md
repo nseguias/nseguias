@@ -1,6 +1,4 @@
-Smart contract dev looking to collaborate on any blockchain project.
-I speak Spanish, English, Rust, Python, and R.
-You can reach me on Twitter @nahem or Telegram @nseguias
+Smart contracts developer building decentralized apps with Rust & CosmWasm
 
 <!---
 nseguias/nseguias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
